@@ -10,7 +10,7 @@ int main()
     printf("Podaj wartosc zmiennej n: ");
     scanf("%d", &n);
     if(n>3)
-;   {
+    {
         for(i = 1; i < n; i++)
         {
             if(czy_pierwsza(i) == 0)

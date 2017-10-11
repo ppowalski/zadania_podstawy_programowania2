@@ -9,7 +9,7 @@ int main()
     {
         if(czy_pierwsza(i) != 0) printf("%d ", i);
 
-        //stop
+        //stop 
         //if(i == 999999) break;
     }
 }
